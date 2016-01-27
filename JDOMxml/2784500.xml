@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fr-patent-document lang="fr" dtd-version="v1.5" country="FR" doc-number="2784500" kind="B1" id="9812621" status="INSCRI">
+<fr-bibliographic-data>
+<fr-publication-data>
+<fr-publication-reference>
+<document-id>
+<country>FR</country>
+<doc-number>2784500</doc-number>
+<kind>B1</kind>
+<date>20000414</date>
+</document-id>
+<fr-bopinum>2000-15</fr-bopinum>
+<fr-nature>Brevet</fr-nature>
+</fr-publication-reference>
+</fr-publication-data>
+<application-reference appl-type="">
+<document-id>
+<country>FR</country>
+<doc-number>9812621</doc-number>
+<date>19981008</date>
+</document-id>
+</application-reference>
+<invention-title lang="fr">MONTAGE DE RESISTANCE DE FERMETURE POUR APPAREILLAGE A HAUTE TENSION</invention-title>
+<parties>
+<applicants>
+<applicant app-type="applicant" designation="all" sequence="1">
+<addressbook lang="fr">
+<last-name>ALSTOM FRANCE SA</last-name>
+<first-name/>
+<middle-name/>
+<iid>347951238</iid>
+<address>
+<address-1>38 AVENUE KLEBER</address-1>
+<city>PARIS</city>
+<postcode>75116</postcode>
+<country>FR</country>
+</address>
+</addressbook>
+</applicant>
+</applicants>
+<inventors>
+<inventor designation="all" sequence="1">
+<addressbook lang="fr">
+<last-name>RAYNAUD</last-name>
+<first-name>BERNARD</first-name>
+<middle-name/>
+<iid/>
+<address>
+<address-1>88A RUE COSTE</address-1>
+<city>CALUIRE</city>
+<postcode>69300</postcode>
+<country>FR</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent rep-type="agent" sequence="1">
+<addressbook lang="fr">
+<last-name>BREVALEX</last-name>
+<first-name/>
+<middle-name/>
+<iid>582120671</iid>
+<address>
+<address-1>95 RUE D'AMSTERDAM</address-1>
+<city>PARIS</city>
+<postcode>75008</postcode>
+<country>FR</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<fr-owners>
+<fr-owner sequence="1">
+<addressbook lang="fr">
+<last-name>ALSTOM GRID SAS</last-name>
+<first-name/>
+<middle-name/>
+<iid>389191800</iid>
+<address>
+<address-1>IMMEUBLE LE GALILEE
+51, ESPLANADE DU GENERAL DE GAULLE</address-1>
+<city>PARIS LA DEFENSE CEDEX</city>
+<postcode>92907</postcode>
+<country>FR</country>
+</address>
+</addressbook>
+</fr-owner>
+</fr-owners>
+<classification-ipc>
+<edition>7</edition>
+<main-classification>H01H 33/16</main-classification>
+</classification-ipc>
+</fr-bibliographic-data>
+<fr-patent-life>
+<fr-inscription>
+<registered-number>0143469</registered-number>
+<date>20050119</date>
+<fr-code-inscription>CD</fr-code-inscription>
+<fr-nature-inscription>Changement de nom, de dénomination</fr-nature-inscription>
+<fr-bopinum/>
+</fr-inscription>
+<fr-inscription>
+<registered-number>0143469</registered-number>
+<date>20050119</date>
+<fr-code-inscription>CA</fr-code-inscription>
+<fr-nature-inscription>Changement d'adresse du titulaire</fr-nature-inscription>
+<fr-bopinum/>
+</fr-inscription>
+<fr-inscription>
+<registered-number>0150911</registered-number>
+<date>20060316</date>
+<fr-code-inscription>TO</fr-code-inscription>
+<fr-nature-inscription>Transmission totale de propriété</fr-nature-inscription>
+<fr-bopinum/>
+</fr-inscription>
+<fr-inscription>
+<registered-number>0192811</registered-number>
+<date>20121204</date>
+<fr-code-inscription>CD</fr-code-inscription>
+<fr-nature-inscription>Changement de nom, de dénomination</fr-nature-inscription>
+<fr-bopinum>2013-01</fr-bopinum>
+</fr-inscription>
+<fr-inscription>
+<registered-number>0192812</registered-number>
+<date>20121204</date>
+<fr-code-inscription>CD</fr-code-inscription>
+<fr-nature-inscription>Changement de nom, de dénomination</fr-nature-inscription>
+<fr-bopinum>2013-01</fr-bopinum>
+</fr-inscription>
+<fr-inscription>
+<registered-number>0192812</registered-number>
+<date>20121204</date>
+<fr-code-inscription>CA</fr-code-inscription>
+<fr-nature-inscription>Changement d'adresse du titulaire</fr-nature-inscription>
+<fr-bopinum>2013-01</fr-bopinum>
+</fr-inscription>
+<fr-date-availability>
+<fr-date-search-completed>
+<date>20000414</date>
+<fr-bopinum>2000-15</fr-bopinum>
+</fr-date-search-completed>
+<fr-date-granted>
+<document-id>
+<country/>
+<doc-number/>
+<kind>B1</kind>
+<name/>
+<date>20001110</date>
+</document-id>
+<fr-bopinum>2000-45</fr-bopinum>
+</fr-date-granted>
+</fr-date-availability>
+</fr-patent-life>
+</fr-patent-document>
